@@ -2,15 +2,15 @@
   "scoredApplicants": [
     {
       "name": "John",
-      "score": 0.27
+      "score": 0.3
     },
     {
       "name": "Jane",
-      "score": 0.37000000000000005
+      "score": 0.42
     },
     {
       "name": "Joe",
-      "score": 0.17
+      "score": 0.28
     }
   ]
 }

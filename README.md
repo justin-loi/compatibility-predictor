@@ -8,3 +8,5 @@ In order to run this project, simply open the repository in an environment that 
 # Input/Output
 The program takes the input by reading the JSON input through the `input.json` file.
 The output is generated in JSON into the `output.json` file. 
+
+For your reference, an `input.json` and `output.json` is available for your reference.
