@@ -55,7 +55,6 @@ function calculateAttributeWeight(team) {
     return attributeWeights;
 }
 
-
 // Function to calculate compatibility score per applicant
 function calculateCompatibilityScore(applicant, attributeWeights) {
 
