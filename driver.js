@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Input data
-const inputData = fs.readFileSync('input_file.json');
+const inputData = fs.readFileSync('input.json');
 const { team, applicants } = JSON.parse(inputData);
 
 // Function to calculate compatibility score
